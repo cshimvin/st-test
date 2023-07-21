@@ -5,7 +5,7 @@ body {
 }
 
 .header-container {
-    background: url('images/header.jpg') no-repeat center center fixed;
+    background: url('../images/header.jpg') no-repeat center center fixed;
     height: auto;
     min-height: 200px;
     width: 100vw;
